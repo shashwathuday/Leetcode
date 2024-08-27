@@ -1,7 +1,7 @@
 # Leetcode
 Leetcode solution code repository.
 
-| #  | Second Header |
-| -  | ------------- |
-| 1  | Content Cell  |
-| 2  | Content Cell  |
+| #  | Second Header | Solution | Difficulty|
+| -  | ------------- |----------|-----------|
+| 1  | Two Sum       |Python    |Easy       |
+| 2  | Content Cell  |          |           |
