@@ -2,6 +2,6 @@
 Leetcode solution code repository.
 
 | #  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| -  | ------------- |
+| 1  | Content Cell  |
+| 2  | Content Cell  |
